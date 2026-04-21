@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Welcome%20to%20My%20Lab&fontSize=70&animation=fadeIn)
 # Hi, I'm Krisha Patel 👋
 
 ### 🚀 Aspiring IT & Cybersecurity Professional | Montreal, QC
